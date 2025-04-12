@@ -1,0 +1,94 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\DesignPatterns\\AdapterDesignPatterns\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6D4409F8-CD4F-4FFE-9C05-CE005A3FDD32}|ChargingApp\\ChargingApp.csproj|c:\\users\\user\\source\\repos\\designpatterns\\adapterdesignpatterns\\chargingapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D4409F8-CD4F-4FFE-9C05-CE005A3FDD32}|ChargingApp\\ChargingApp.csproj|solutionrelative:chargingapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D4409F8-CD4F-4FFE-9C05-CE005A3FDD32}|ChargingApp\\ChargingApp.csproj|c:\\users\\user\\source\\repos\\designpatterns\\adapterdesignpatterns\\chargingapp\\microusbtousbcadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D4409F8-CD4F-4FFE-9C05-CE005A3FDD32}|ChargingApp\\ChargingApp.csproj|solutionrelative:chargingapp\\microusbtousbcadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EABB171-FB1F-4EA1-8788-DD0847DB78E0}|LegacyLibrary\\LegacyLibrary.csproj|c:\\users\\user\\source\\repos\\designpatterns\\adapterdesignpatterns\\legacylibrary\\microusbcharger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EABB171-FB1F-4EA1-8788-DD0847DB78E0}|LegacyLibrary\\LegacyLibrary.csproj|solutionrelative:legacylibrary\\microusbcharger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D4409F8-CD4F-4FFE-9C05-CE005A3FDD32}|ChargingApp\\ChargingApp.csproj|c:\\users\\user\\source\\repos\\designpatterns\\adapterdesignpatterns\\chargingapp\\iusbccharger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D4409F8-CD4F-4FFE-9C05-CE005A3FDD32}|ChargingApp\\ChargingApp.csproj|solutionrelative:chargingapp\\iusbccharger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MicroUsbCharger.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\DesignPatterns\\AdapterDesignPatterns\\LegacyLibrary\\MicroUsbCharger.cs",
+              "RelativeDocumentMoniker": "LegacyLibrary\\MicroUsbCharger.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\DesignPatterns\\AdapterDesignPatterns\\LegacyLibrary\\MicroUsbCharger.cs",
+              "RelativeToolTip": "LegacyLibrary\\MicroUsbCharger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T14:38:57.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\DesignPatterns\\AdapterDesignPatterns\\ChargingApp\\Program.cs",
+              "RelativeDocumentMoniker": "ChargingApp\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\DesignPatterns\\AdapterDesignPatterns\\ChargingApp\\Program.cs",
+              "RelativeToolTip": "ChargingApp\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T14:41:42.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IUsbCCharger.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\DesignPatterns\\AdapterDesignPatterns\\ChargingApp\\IUsbCCharger.cs",
+              "RelativeDocumentMoniker": "ChargingApp\\IUsbCCharger.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\DesignPatterns\\AdapterDesignPatterns\\ChargingApp\\IUsbCCharger.cs",
+              "RelativeToolTip": "ChargingApp\\IUsbCCharger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T14:47:33.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MicroUsbToUsbCAdapter.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\DesignPatterns\\AdapterDesignPatterns\\ChargingApp\\MicroUsbToUsbCAdapter.cs",
+              "RelativeDocumentMoniker": "ChargingApp\\MicroUsbToUsbCAdapter.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\DesignPatterns\\AdapterDesignPatterns\\ChargingApp\\MicroUsbToUsbCAdapter.cs*",
+              "RelativeToolTip": "ChargingApp\\MicroUsbToUsbCAdapter.cs*",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAkwA4AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T14:48:42.539Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
