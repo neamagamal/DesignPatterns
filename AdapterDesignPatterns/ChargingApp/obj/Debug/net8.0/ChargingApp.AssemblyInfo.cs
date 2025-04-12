@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ChargingApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+de797e8ac378a2e845d314e88c3ae62fa9970052")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+074cee9c5908b949d25742fea19840f738bb1675")]
 [assembly: System.Reflection.AssemblyProductAttribute("ChargingApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ChargingApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
